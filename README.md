@@ -115,11 +115,5 @@ This repository encompasses the end-to-end pipeline for scraping, cleaning, feat
   - `notebooks/final_data_cleaning.ipynb`  
 - **Charts:** Histograms, boxplots, scatter plots, bar charts—explore `price`, `area`, `price_per_sqm`, and distributions by bedrooms/district.
 
----
-
-## Deployment via Lovable
-
- - **Prompt:** See `deployment/lovab_app_prompt.txt` for the full prompt to scaffold your app on [Lovable.dev](https://lovable.dev).  
----
 
 
