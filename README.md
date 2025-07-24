@@ -7,17 +7,13 @@ This repository encompasses the end-to-end pipeline for scraping, cleaning, feat
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Repository Structure](#repository-structure)
-3. [Requirements](#requirements)
-4. [Setup Instructions](#setup-instructions)
-5. [Data Scraping](#data-scraping)
-6. [Data Cleaning & Integration](#data-cleaning--integration)
-7. [Feature Engineering](#feature-engineering)
-8. [Predictive Modeling](#predictive-modeling)
-9. [Visualization](#visualization)
-10. [Deployment via Lovable](#deployment-via-lovable)
-11. [Usage](#usage)
-
+2. [Requirements](#requirements)
+3. [Setup Instructions](#setup-instructions)
+4. [Data Scraping](#data-scraping)
+5. [Data Cleaning & Integration](#data-cleaning--integration)
+6. [Feature Engineering](#feature-engineering)
+7. [Predictive Modeling](#predictive-modeling)
+8. [Visualization](#visualization)
 ---
 
 ## Project Overview
