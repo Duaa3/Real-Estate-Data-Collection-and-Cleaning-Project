@@ -18,7 +18,7 @@ This repository encompasses the end-to-end pipeline for scraping, cleaning, feat
 
 ## Project Overview
 
-`Oman Rentals` gathers rental listings from Dubizzle and Mawa, cleans and merges the datasets, engineers predictive features, trains baseline regression models to estimate rental prices, visualizes insights, and deploys a full‑stack web app using Lovable.dev.
+`Oman Rentals` gathers rental listings from Dubizzle and Mawa, cleans and merges the datasets, engineers predictive features, trains baseline regression models to estimate rental prices, visualizes insights
 
 ---
 
